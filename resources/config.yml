@@ -1,9 +1,9 @@
 ---
 # EconomyAPI | EconomyPE
-eco: EconomyAPI
+eco: EconomyPE
 
 # Put true if the player has a chance of recovering money
-chance: false
+chance: true
 # Chances if "chance" is set to true
 chance.money: 5
 
